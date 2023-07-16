@@ -36,7 +36,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 https://github.com/Nasalees/galeria_de_gatos.git
 
 
-## ✒️ Autore
+## ✒️ Autor
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
